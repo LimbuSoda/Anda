@@ -1,6 +1,6 @@
 # Caption editor
 Telegram bot to delete messages after specific time 
-[![Caption editor](https://te.legra.ph/file/e0e4b5df761aa6e9916b2.png)](https://github.com/arun017s/AutoDelete)
+[![Caption editor](https://te.legra.ph/file/e0e4b5df761aa6e9916b2.png)](https://github.com/saikatwtf/caption-editor)
 
 ## Variables
 1. `API_ID` : Get from [my.telegram.org](https://my.telegram.org)
